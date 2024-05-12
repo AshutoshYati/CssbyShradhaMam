@@ -1,0 +1,32 @@
+h1 {
+    color: rgb(1, 1, 1);
+}
+div {
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    /* display: inline; */
+    display: inline-block;
+}
+#one {
+    background-color: blue;
+
+}
+#two{
+    background-color: green;
+    /* display: none; */
+    visibility: hidden;
+}
+#three {
+    background-color: red;
+}
+#four {
+    background-color: rgba(0, 0, 255, 0.5);
+}
+#five {
+    background-color: rgba(0, 0, 255, 0.75);
+}
+#six {
+    background-color: rgba(0, 0, 255, 1);
+}

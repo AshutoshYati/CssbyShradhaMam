@@ -1,0 +1,14 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: blanchedalmond;
+    background-image: url("nature.jpg");
+    background-size: cover;
+    color: white;
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: fixed;
+    right: 0px;
+    top: 50px;
+    
+}

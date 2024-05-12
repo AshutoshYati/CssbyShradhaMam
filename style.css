@@ -1,0 +1,31 @@
+/* h1 {
+    color: green;
+}
+p {
+    color: blueviolet;
+}
+button {
+    color: rgb(14, 92, 202);
+    background-color: rgb(201, 193, 85);
+}
+body {
+    background-color: rgb(184, 162, 215);
+} */
+*{
+    color: aqua;
+}
+#headingone{
+    color: green;
+}
+#headingtwo{
+    color: red;
+}
+#headingthree{
+    color: brown;
+}
+.myclass{
+    color: magenta;
+}
+button{
+    color: blue;
+}

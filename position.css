@@ -1,0 +1,54 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+}
+#box1 {
+    position: relative;
+}
+#box2 {
+    position: relative;
+    top: 20px;
+    left: 10px;
+    z-index: 1;
+}
+#box3 {
+    position: static;
+    top: 10px;
+    left: 20px;
+}
+#box4 {
+    position: static;
+    right: 20px;
+    top: 15px;
+    z-index: 2;
+}
+#flex {
+    text-align: center;
+}
+#container{
+    width: 1240px;
+    height: 200px;
+    background-color: rgb(220, 140, 42);
+    margin-right: 50px;
+    margin-top: 40px;
+}
+#box5 {
+    background-color: rgb(243, 108, 220);
+    background-image: url("parrot.jpg") ;
+    background-size: cover;
+}
+#box6 {
+    background-color: rgb(112, 136, 201);
+}
+#box7 {
+    background-color: rgb(10, 240, 98);
+}
+#box8 {
+    background-color: rgb(212, 238, 83);
+}
+#box9 {
+    background-color: rgb(126, 39, 49);
+}

@@ -1,0 +1,81 @@
+h1 {
+    color: blue;
+    text-align: center;
+    font-weight: 600;
+    text-decoration: underline;
+}
+#light {
+    background-color: rgb(1, 1, 1);
+    width: 150px;
+    height: 500px;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding-top: 15px;
+    align-items: center;
+    margin-left: 40%;
+    
+}
+#red {
+    width: 100px;
+    height: 150px;
+    background-color: red;
+    border-radius: 50%;
+    border: 1px solid black;
+    padding-left: 50px;
+    
+}
+#yellow {
+    width: 100px;
+    height: 150px;
+    background-color: yellow;
+    border-radius: 50%;
+    border: 1px solid black;
+    padding-left: 50px;
+
+ 
+}
+#green {
+    width: 100px;
+    height: 150px;
+    background-color: green;
+    border-radius: 50%;
+    border: 1px solid black;
+    padding-left: 50px;
+}
+#one {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
+#navbar {
+    background-color: black;
+    height: 60px;
+
+
+}
+#meet {
+    color: #f08804;
+    
+}
+button {
+    color: #f08804;
+}
+a {
+    margin-right: 200px;
+    text-decoration: none;
+}
+.contentbox {
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+#content {
+    height: 620px;
+}
+footer {
+    background-color: #0f1111;
+    color: white;
+    text-align: center;
+}

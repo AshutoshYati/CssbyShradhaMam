@@ -1,0 +1,29 @@
+ul {
+    background-color: rgb(194, 68, 68);
+    display: flex;
+    justify-content: space-evenly;
+
+}
+a {
+    text-decoration: none;
+    color: black;
+    background-color: rgb(222, 193, 193);
+    /* background-color: aquamarine; */
+}
+li {
+    list-style-type: none;
+    display: inline;
+}
+.outer {
+    height: 400px;
+    width: 400px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner {
+    height: 100px;
+    width: 100px;
+    background-color: darkorchid;
+}
